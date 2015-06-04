@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1427805920 source:c:\users\rafal\codeblocks\zpo_projekt_detekcja_usmiechu\main.cpp
+	<stdio.h>
+	<iostream>
+	<sstream>
+	<windows.h>
+	<opencv2/opencv.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"Ustawienia.h"
+	"Wspolrzedne.h"
+
+1427750239 c:\users\rafal\codeblocks\zpo_projekt_detekcja_usmiechu\ustawienia.h
+	<string>
+
+1427749316 source:c:\users\rafal\codeblocks\zpo_projekt_detekcja_usmiechu\ustawienia.cpp
+	"Ustawienia.h"
+
+1427794076 source:c:\users\rafal\codeblocks\zpo_projekt_detekcja_usmiechu\wspolrzedne.cpp
+	"Wspolrzedne.h"
+
+1427751176 c:\users\rafal\codeblocks\zpo_projekt_detekcja_usmiechu\wspolrzedne.h
+	<opencv2/opencv.hpp>
+	<iostream>
+
